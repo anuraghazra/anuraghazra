@@ -22,4 +22,4 @@ Hi, I'm Anurag Hazra, a passionate self-taught frontEnd web developer from India
 - 💬 Ask me about anything [here](https://github.com/anuraghazra/anuraghazra/issues)
 
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true)
