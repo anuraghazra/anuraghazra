@@ -1,13 +1,13 @@
 ### Hi there, I'm Anurag! 👋
 
 <a href="https://codesandbox.io/u/anuraghazra">
-  <img align="left" alt="Anurag Hazra | CodeSandbox" width="18px" src="./assets/codesandbox.svg" />
+  <img align="left" alt="Anurag Hazra | CodeSandbox" width="20px" src="./assets/codesandbox.svg" />
 </a>
 <a href="https://twitter.com/anuraghazru">
-  <img align="left" alt="Anurag Hazra | Twitter" width="18px" src="./assets/twitter.svg" />
+  <img align="left" alt="Anurag Hazra | Twitter" width="21px" src="./assets/twitter.svg" />
 </a>
 <a href="https://discord.gg/VK4k3Br">
-  <img align="left" alt="Anurag's Discord" width="18px" src="./assets/discord.svg" />
+  <img align="left" alt="Anurag's Discord" width="20px" src="./assets/discord-round.svg" />
 </a>
 
 <br />
