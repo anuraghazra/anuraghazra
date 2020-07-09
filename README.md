@@ -25,9 +25,9 @@ Hi, I'm Anurag Hazra, a passionate self-taught frontEnd web developer from India
 ![Anurag's github stats](https://github-readme-stats.anuraghazra1.vercel.app/api?username=anuraghazra&show_icons=true&hide_border=true)
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats" />
 </a>
 
 <a href="https://github.com/anuraghazra/ShaderExpo">
-  <img align="left" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=anuraghazra&repo=ShaderExpo" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=ShaderExpo" />
 </a>
