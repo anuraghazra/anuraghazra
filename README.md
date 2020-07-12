@@ -17,7 +17,7 @@ Hi, I'm Anurag Hazra, a passionate self-taught frontEnd web developer from India
 
 - 🔭 I’m currently working on my project [ConvoyChat](https://github.com/anuraghazra/convoychat)
 - 🌱 I’m currently learning GraphQL & Typescript
-- 👯 I’m looking to collaborate on [ConvoyChat](https://github.com/anuraghazra/convoychat)
+- 👯 I’m looking to collaborate on [Github Readme Stats](https://github.com/anuraghazra/github-readme-stats)
 - 💬 Ask me about anything [here](https://github.com/anuraghazra/anuraghazra/issues)
 
 **Languages and Tools:**  
