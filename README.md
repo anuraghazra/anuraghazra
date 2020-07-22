@@ -3,7 +3,6 @@
 ![](https://komarev.com/ghpvc/?username=zhixiaoqiang&color=green)
 
 <br />
-<br />
 
 Hi, I'm Zhixiaoqiang, a passionate self-taught frontEnd web developer from China.
 
