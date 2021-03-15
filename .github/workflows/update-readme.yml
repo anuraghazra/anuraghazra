@@ -17,4 +17,3 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         with:
           COMMIT_MSG: ':memo: docs: update Recent Activity'
-          MAX_LINES: 10
