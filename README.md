@@ -32,6 +32,13 @@ Hi, I'm Zhixiaoqiang, a passionate self-taught frontEnd web developer from China
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=zhixiaoqiang&show_icons=true&theme=radical&line_height=40" alt="Anurag's github stats" />
 </a>
+
+### :zap: Recent Activity
+
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
+
+
 <!--
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=zhixiaoqiang&repo=github-readme-stats&theme=radical" />
