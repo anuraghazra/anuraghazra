@@ -1,4 +1,4 @@
-### Hi there, I'm [Zhixiaoqiang!](https://zhixiaoqiang.github.io) 👋
+### Hi there, I'm [Zhixiaoqiang!](https://github.com/zhixiaoqiang/zhixiaoqiang) 👋
 
 ![](https://komarev.com/ghpvc/?username=zhixiaoqiang&color=green)
 
