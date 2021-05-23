@@ -54,3 +54,4 @@ Hi, I'm Anurag Hazra, a passionate self-taught frontEnd web developer from India
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=anuraghazra&repo=anuraghazra.github.io&theme=material-palenight" />
 </a>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anuraghazra&" alt="anurag"/></p>
