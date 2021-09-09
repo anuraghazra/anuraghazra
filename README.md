@@ -26,9 +26,9 @@ I'm a self-taught passionate FrontEnd developer from India 🇮🇳
 
 
 <p align="center"><a href="https://github.com/anuraghazra/github-readme-stats">
-<img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" width="52.9%"/> </a>
+<img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" width="53.1%"/> </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-<img width="44.9%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=buefy&hide_border=true"  /></a>
+<img width="44.7%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=buefy&hide_border=true"  /></a>
 </p>
 
 #### Top Repositories
