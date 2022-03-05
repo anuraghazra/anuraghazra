@@ -41,6 +41,12 @@ I'm a self-taught passionate FrontEnd developer from India 🇮🇳
 <br />
 <br />
 
+#### Sponsors
+
+Meet the most supportive people on earth! 
+
+<!-- sponsors --><!-- sponsors -->
+
 <a href="https://twitter.com/anuraghazru">
   <img align="right" alt="Anurag Hazra | Twitter" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/twitter.svg" />
 </a>
