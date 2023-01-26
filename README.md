@@ -43,3 +43,4 @@ I'm a self-taught passionate FrontEnd developer from India 🇮🇳
 <a href="https://codesandbox.io/u/anuraghazra">
   <img align="right" alt="Anurag Hazra | CodeSandbox" width="20px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/codesandbox.svg" />
 </a>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anuraghazra&" alt="anurag"/></p>
