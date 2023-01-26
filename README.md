@@ -26,7 +26,9 @@ I'm a self-taught passionate FrontEnd developer from India 🇮🇳
 
 #### Top Repositories
 
-
+<a href="https://github.com/Borrus-sudo/awesome-stack">
+  <img align="center" src="https://awesome-stack.glitch.me/api/v1/cards?name=anuraghazra&repos=convoychat,BugVilla,Verly.js,anuraghazra.github.io&theme=material-palenight" alt="Anurag's github stats" />
+</a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats&theme=buefy" />
 </a>
